@@ -5,3 +5,5 @@
 cpp/*.dSYM
 cpp/*.o
 cpp/*.exe
+cpp/*.out
+cpp/*.bin
