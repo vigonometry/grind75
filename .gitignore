@@ -1,0 +1,6 @@
+#VSCode Config File
+.vscode/
+
+#debugging + output files
+cpp/*.dSYM
+cpp/*.o
